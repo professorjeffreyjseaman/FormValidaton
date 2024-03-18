@@ -5,3 +5,26 @@
 input.error {
     border: 2px solid red;
 }
+
+input.error-pink {
+    background-color: pink;
+}
+
+label {
+    font-size: 14px;
+}
+
+input[type="text"],
+input[type="email"]{
+    padding: 10px;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 10px;
+}
+
+button[type="button"] {
+    padding: 15px 25px;
+    font-size: 14px;
+    margin-left: 40px;
+}
+
